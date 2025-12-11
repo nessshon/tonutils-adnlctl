@@ -14,7 +14,7 @@ maintainers = [
 ]
 dependencies = [
     "colorama~=0.4.6",
-    "tonutils>=2.0.0b10",
+    "tonutils>=2.0.1b1",
 ]
 keywords = [
     "AsyncIO",
